@@ -44,6 +44,6 @@ Bert requires a lot of GPU Memory. For the limit of GPU Memory(12GB), the InfoNe
 |Match-LSTM |0.534|  
 |DCMN |0.530|  
 |InfoHopNet|**0.604**|  
-|Bert Large||  
+|**Bert Large**||  
 |finetune with Swag* |0.604|  
 |Bert Multi-Task*|**0.638**|  
