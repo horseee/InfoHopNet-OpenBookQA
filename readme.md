@@ -4,6 +4,8 @@ This project is the code for my undergraduate thesis. This project proposes a ne
 *  A retrieval and integration module for structured commonsense knowledge. Using extract matching method to obtain more comprehensive and accurate structured knowledge like triples or quintuples from ConceptNet.
 *  A selection and reasoning module on unstructured scientific knowledge. Different from other methods, InfoHopNet sorts all retrieved scientific knowledge and selects the most relevant knowledge for reasoning.
 
+InfoHopNet achieves 0.604 on OpenBookQA dataset.
+
 ### Model Construction
 ![Model](model.png)
 
